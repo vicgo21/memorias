@@ -13,3 +13,15 @@ video {
     font-size: 1em;
     padding: 10px 20px;
 }
+@font-face {
+    font-family: 'caraio';
+    src: url('fonts/caraio.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'caraio', cursive;
+    background-color: #f0f0f0;
+    color: #333;
+}
